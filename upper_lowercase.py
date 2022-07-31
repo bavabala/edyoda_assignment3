@@ -12,7 +12,7 @@ def string_case(string):
             case["LOWER_CASE"]+=1
         else:
             pass
-#print the upper and lower case:
+#print the  count of upper and lower case characters:
     print("Original string :",string)
     print("number of upper case characters : ",case["UPPER_CASE"])
     print("number of lower case characters : ",case["LOWER_CASE"])
